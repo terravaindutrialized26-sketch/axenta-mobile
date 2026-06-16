@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AXENTA Mobile</string>
+    
+    <!-- Navigation -->
     <string name="dashboard">Dashboard</string>
     <string name="obs_control">OBS Control</string>
     <string name="audio_mixer">Audio Mixer</string>
     <string name="camera_control">Camera Control</string>
-    <string name="lighting_control">Lighting Control</string>
+    <string name="lighting_control">Lighting</string>
     <string name="tiktok_live">TikTok Live</string>
     <string name="shopee_live">Shopee Live</string>
     <string name="live_hub">Live Hub</string>
     <string name="podcast">Podcast</string>
-    <string name="music_live">Music Live</string>
+    <string name="music_live">Music</string>
     <string name="settings">Settings</string>
+    
+    <!-- Metrics -->
     <string name="viewers">Viewers</string>
     <string name="revenue">Revenue</string>
     <string name="orders">Orders</string>

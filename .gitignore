@@ -1,0 +1,35 @@
+# Gradle files
+.gradle/
+build/
+*.jks
+*.keystore
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Local properties
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+Thumbsdb
+
+# Android Studio 3.1+ serialized cache file
+.idea/caches/build_file_checksums.ser
+
+# Emulator output
+.gradle/
+.idea/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Kotlin/Java output
+out/
+bin/

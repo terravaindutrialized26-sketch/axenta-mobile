@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Blue Neon -->
+    <color name="primary_blue">#00D9FF</color>
+    <color name="primary_blue_dark">#00A8CC</color>
+    <color name="primary_blue_light">#33E8FF</color>
+    
+    <!-- Secondary Accent -->
+    <color name="secondary_purple">#B024D9</color>
+    <color name="secondary_purple_dark">#8A1DB3</color>
+    <color name="secondary_purple_light">#D950FF</color>
+    
+    <!-- Tertiary Accent -->
+    <color name="tertiary_cyan">#00FFF0</color>
+    
+    <!-- Dark Background -->
+    <color name="background_dark">#0A0E27</color>
+    <color name="background_darker">#050812</color>
+    <color name="surface_dark">#1A1F3A</color>
+    <color name="surface_darker">#0F1426</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3CC</color>
+    <color name="text_tertiary">#808099</color>
+    
+    <!-- Status Colors -->
+    <color name="status_online">#00FF00</color>
+    <color name="status_offline">#FF0000</color>
+    <color name="status_idle">#FFAA00</color>
+    <color name="status_warning">#FF6B00</color>
+    <color name="status_error">#FF3333</color>
+    
+    <!-- Utility Colors -->
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
